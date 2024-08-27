@@ -1,5 +1,5 @@
 🏆 AI-Boss Fights
-
+![Plugin Banner](https://your-image-url.com/banner.png)
 AI-Boss Fights to zaawansowany plugin do Minecrafta, który wprowadza inteligentnych bossów dostosowujących się do zachowań graczy. Dzięki dynamicznym fazom walki oraz AI analizującej działania graczy, każda walka staje się unikalnym wyzwaniem.
 
 ⚔️ Funkcje:
