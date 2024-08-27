@@ -7,11 +7,11 @@ public class BossFightPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("Plugin AI-Controlled Boss Fights został włączony!");
+        getLogger().info("Plugin AI-Boss Fights został włączony!");
         this.getCommand("spawnBoss").setExecutor(new KomendaSpawnBoss(this));
     }
     @Override
     public void onDisable() {
-        getLogger().info("Plugin AI-Controlled Boss Fights został wyłączony.");
+        getLogger().info("Plugin AI-Boss Fights został wyłączony.");
     }
 }
