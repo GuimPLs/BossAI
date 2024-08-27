@@ -1,0 +1,8 @@
+name: BossAI
+version: '1.0-SNAPSHOT'
+main: pl.guimpl.bossfight.BossFightPlugin
+api-version: '1.20'
+commands:
+  spawnBoss:
+    description: Spawnuje bossa w miejscu gracza
+    usage: /spawnBoss
